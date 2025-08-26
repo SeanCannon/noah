@@ -1,0 +1,2590 @@
+[
+  {
+    "name"     : "Alligator",
+    "category" : "large reptile",
+    "gender"   : "male",
+    "eats"     : [
+      "small mammal",
+      "medium mammal",
+      "small bird",
+      "reptile",
+      "amphibian"
+    ],
+    "rarity"   : 53,
+    "id"       : "c1764e99-f04b-4d02-b453-1c622c505666"
+  },
+  {
+    "name"     : "Alligator",
+    "category" : "large reptile",
+    "gender"   : "female",
+    "eats"     : [
+      "small mammal",
+      "medium mammal",
+      "small bird",
+      "reptile",
+      "amphibian"
+    ],
+    "rarity"   : 48,
+    "id"       : "0f509ccb-08ee-4cd6-ab55-b863043e7dfc"
+  },
+  {
+    "name"     : "Ant",
+    "category" : "tiny insect",
+    "gender"   : "male",
+    "eats"     : [
+      "seed",
+      "small insect"
+    ],
+    "rarity"   : 1,
+    "id"       : "97c76747-7c76-47cf-b45f-2fc0ae35d9b4"
+  },
+  {
+    "name"     : "Ant",
+    "category" : "tiny insect",
+    "gender"   : "female",
+    "eats"     : [
+      "seed",
+      "small insect"
+    ],
+    "rarity"   : 21,
+    "id"       : "b1fa2783-56fc-4448-9308-5f278aef856d"
+  },
+  {
+    "name"     : "Ape",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "fruit",
+      "plant",
+      "small insect",
+      "egg"
+    ],
+    "rarity"   : 86,
+    "id"       : "2f963e05-88ca-4fe6-8379-4f51ae340ed4"
+  },
+  {
+    "name"     : "Ape",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "fruit",
+      "plant",
+      "small insect",
+      "egg"
+    ],
+    "rarity"   : 85,
+    "id"       : "2620228d-4e2b-4fad-9d27-8d2dfc051251"
+  },
+  {
+    "name"     : "Armadillo",
+    "category" : "small mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "tiny insect"
+    ],
+    "rarity"   : 56,
+    "id"       : "c91ae39d-9a2b-4a07-b5cd-e879b7fde6bb"
+  },
+  {
+    "name"     : "Armadillo",
+    "category" : "small mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "tiny insect"
+    ],
+    "rarity"   : 55,
+    "id"       : "01942522-a8ed-4e50-bf4b-1a6b620140d6"
+  },
+  {
+    "name"     : "Baboon",
+    "category" : "medium mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small mammal",
+      "small bird",
+      "small insect",
+      "fruit",
+      "egg"
+    ],
+    "rarity"   : 71,
+    "id"       : "ade044ee-c4e2-4015-b693-088dc6a5c38d"
+  },
+  {
+    "name"     : "Baboon",
+    "category" : "medium mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small mammal",
+      "small bird",
+      "small insect",
+      "fruit",
+      "egg"
+    ],
+    "rarity"   : 70,
+    "id"       : "5cb9da98-c3a7-47d6-956f-e611a7a84bf7"
+  },
+  {
+    "name"     : "Bat",
+    "category" : "small mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "tiny insect",
+      "nectar",
+      "fruit"
+    ],
+    "rarity"   : 21,
+    "id"       : "5db5e067-9475-4254-8d66-fadbef5476af"
+  },
+  {
+    "name"     : "Bat",
+    "category" : "small mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "tiny insect",
+      "nectar",
+      "fruit"
+    ],
+    "rarity"   : 20,
+    "id"       : "14861ba2-214a-4748-b996-4e6aca010df8"
+  },
+  {
+    "name"     : "Bear",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "fish",
+      "small mammal",
+      "small bird",
+      "fruit",
+      "plant",
+      "carrion"
+    ],
+    "rarity"   : 66,
+    "id"       : "f163df96-d2ac-45e8-9e12-8e236e633745"
+  },
+  {
+    "name"     : "Bear",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "fish",
+      "small mammal",
+      "small bird",
+      "fruit",
+      "plant",
+      "carrion"
+    ],
+    "rarity"   : 65,
+    "id"       : "9cb6d379-fc68-483b-a6fa-7b7361033b74"
+  },
+  {
+    "name"     : "Bee",
+    "category" : "tiny insect",
+    "gender"   : "male",
+    "eats"     : [
+      "nectar"
+    ],
+    "rarity"   : 2,
+    "id"       : "d640828f-26c1-460a-8a34-7b70b45f3c73"
+  },
+  {
+    "name"     : "Bee",
+    "category" : "tiny insect",
+    "gender"   : "female",
+    "eats"     : [
+      "nectar"
+    ],
+    "rarity"   : 25,
+    "id"       : "4f46a342-3b59-49ab-b332-67e719fa1825"
+  },
+  {
+    "name"     : "Beetle",
+    "category" : "tiny insect",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "small insect"
+    ],
+    "rarity"   : 6,
+    "id"       : "2252e5c9-85d7-459c-99fb-d8484eee4dbd"
+  },
+  {
+    "name"     : "Beetle",
+    "category" : "tiny insect",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "small insect"
+    ],
+    "rarity"   : 5,
+    "id"       : "2071908f-4cba-4d20-8e94-b68d3a6a6a24"
+  },
+  {
+    "name"     : "Bison",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 76,
+    "id"       : "4e670608-13cf-431a-bdfa-15a82f3d87c6"
+  },
+  {
+    "name"     : "Bison",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 75,
+    "id"       : "5663df15-fecf-4824-b6c5-dc2c05800398"
+  },
+  {
+    "name"     : "Camel",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "leaf"
+    ],
+    "rarity"   : 61,
+    "id"       : "f03b6667-da81-4488-8101-b250bb367062"
+  },
+  {
+    "name"     : "Camel",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "leaf"
+    ],
+    "rarity"   : 60,
+    "id"       : "6c948bd1-91d6-45af-b0b7-1abff60eb0d9"
+  },
+  {
+    "name"     : "Capybara",
+    "category" : "medium mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "grass"
+    ],
+    "rarity"   : 56,
+    "id"       : "2eb7f0d9-64dd-4691-bb42-1d6558472581"
+  },
+  {
+    "name"     : "Capybara",
+    "category" : "medium mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "grass"
+    ],
+    "rarity"   : 55,
+    "id"       : "13a67f3f-5b8b-4252-9f0a-62d0f07009d9"
+  },
+  {
+    "name"     : "Cat",
+    "category" : "medium mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "tiny mammal",
+      "small mammal",
+      "small bird",
+      "small insect",
+      "egg"
+    ],
+    "rarity"   : 5,
+    "id"       : "2e610dd2-a744-444b-a849-8e49b2beb5f3"
+  },
+  {
+    "name"     : "Cat",
+    "category" : "medium mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "tiny mammal",
+      "small mammal",
+      "small bird",
+      "small insect",
+      "egg"
+    ],
+    "rarity"   : 6,
+    "id"       : "471a096d-eee7-401a-a145-ed6a6343d97f"
+  },
+  {
+    "name"     : "Caterpillar",
+    "category" : "tiny insect",
+    "gender"   : "male",
+    "eats"     : [
+      "leaf"
+    ],
+    "rarity"   : 6,
+    "id"       : "205f91ab-69db-42f2-8732-3b7edd689287"
+  },
+  {
+    "name"     : "Caterpillar",
+    "category" : "tiny insect",
+    "gender"   : "female",
+    "eats"     : [
+      "leaf"
+    ],
+    "rarity"   : 5,
+    "id"       : "aef22658-6579-4f39-858a-3f8e6185f8cf"
+  },
+  {
+    "name"     : "Cattle",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 3,
+    "id"       : "4ee5702c-011e-44ab-b6c8-da417f763b55"
+  },
+  {
+    "name"     : "Cattle",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 4,
+    "id"       : "9398e3be-39e0-4f98-b43b-b4d9077217c8"
+  },
+  {
+    "name"     : "Chameleon",
+    "category" : "small reptile",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "tiny insect"
+    ],
+    "rarity"   : 61,
+    "id"       : "f2ac99fc-9637-4f27-a3f4-ba2083b64ed9"
+  },
+  {
+    "name"     : "Chameleon",
+    "category" : "small reptile",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "tiny insect"
+    ],
+    "rarity"   : 60,
+    "id"       : "193972d1-a4d6-45bf-bd92-ae5855ee62b9"
+  },
+  {
+    "name"     : "Cheetah",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small mammal",
+      "medium mammal"
+    ],
+    "rarity"   : 95,
+    "id"       : "d8cc567b-c744-4b46-9b5f-0f7347f4ffd8"
+  },
+  {
+    "name"     : "Cheetah",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small mammal",
+      "medium mammal"
+    ],
+    "rarity"   : 90,
+    "id"       : "9adcdd64-4831-4a7a-8182-0e76788ff6e7"
+  },
+  {
+    "name"     : "Chicken",
+    "category" : "small bird",
+    "gender"   : "male",
+    "eats"     : [
+      "seed",
+      "small insect"
+    ],
+    "rarity"   : 2,
+    "id"       : "4b0e7c8b-22bc-48f7-a209-ff4ffc66e5dd"
+  },
+  {
+    "name"     : "Chicken",
+    "category" : "small bird",
+    "gender"   : "female",
+    "eats"     : [
+      "seed",
+      "small insect"
+    ],
+    "rarity"   : 3,
+    "id"       : "d1f21a92-f40a-4b84-b818-22181297f296"
+  },
+  {
+    "name"     : "Chimpanzee",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "fruit",
+      "small insect",
+      "egg",
+      "small mammal"
+    ],
+    "rarity"   : 89,
+    "id"       : "b069ecbf-672d-4052-9db4-a77c69ce8c35"
+  },
+  {
+    "name"     : "Chimpanzee",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "fruit",
+      "small insect",
+      "egg",
+      "small mammal"
+    ],
+    "rarity"   : 88,
+    "id"       : "da358e0e-2073-4c51-9579-b87874a1c614"
+  },
+  {
+    "name"     : "Cockroach",
+    "category" : "tiny insect",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "small insect"
+    ],
+    "rarity"   : 5,
+    "id"       : "c269dd66-6e77-4419-8f11-108dc9a78c15"
+  },
+  {
+    "name"     : "Cockroach",
+    "category" : "tiny insect",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "small insect"
+    ],
+    "rarity"   : 4,
+    "id"       : "0d8fd736-3c8d-42aa-b087-4e782345650b"
+  },
+  {
+    "name"     : "Coyote",
+    "category" : "medium mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small mammal",
+      "medium mammal",
+      "small bird",
+      "egg"
+    ],
+    "rarity"   : 36,
+    "id"       : "48e7632a-e6df-4ac4-b4ae-e92dcf21c51b"
+  },
+  {
+    "name"     : "Coyote",
+    "category" : "medium mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small mammal",
+      "medium mammal",
+      "small bird",
+      "egg"
+    ],
+    "rarity"   : 35,
+    "id"       : "01a1b19e-94a9-43ff-99c9-484ac205714a"
+  },
+  {
+    "name"     : "Crocodile",
+    "category" : "large reptile",
+    "gender"   : "male",
+    "eats"     : [
+      "small mammal",
+      "medium mammal",
+      "small bird",
+      "reptile",
+      "amphibian"
+    ],
+    "rarity"   : 58,
+    "id"       : "aa8e5bfd-f707-465d-810d-f77e07aeb34e"
+  },
+  {
+    "name"     : "Crocodile",
+    "category" : "large reptile",
+    "gender"   : "female",
+    "eats"     : [
+      "small mammal",
+      "medium mammal",
+      "small bird",
+      "reptile",
+      "amphibian"
+    ],
+    "rarity"   : 53,
+    "id"       : "916ac9fb-69be-4a63-b24d-c6d1f609db5a"
+  },
+  {
+    "name"     : "Deer",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "leaf",
+      "grass"
+    ],
+    "rarity"   : 20,
+    "id"       : "ca70ba5d-19a7-4af9-9ded-a2569e6803b7"
+  },
+  {
+    "name"     : "Deer",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "leaf",
+      "grass"
+    ],
+    "rarity"   : 13,
+    "id"       : "667a1266-23d0-4fa3-9829-1ccf65246c7c"
+  },
+  {
+    "name"     : "Dog",
+    "category" : "medium mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small mammal",
+      "tiny mammal",
+      "small bird"
+    ],
+    "rarity"   : 3,
+    "id"       : "e0ea3288-7bd0-4613-998f-b6c3cdc0d882"
+  },
+  {
+    "name"     : "Dog",
+    "category" : "medium mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small mammal",
+      "tiny mammal",
+      "small bird"
+    ],
+    "rarity"   : 4,
+    "id"       : "c6606517-a673-4688-9950-5cf1fdfbdd81"
+  },
+  {
+    "name"     : "Donkey",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 8,
+    "id"       : "8e43e5ba-a989-40b8-8434-c0284ed4e74a"
+  },
+  {
+    "name"     : "Donkey",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 9,
+    "id"       : "c6ed2f52-2169-478c-8756-55f98728b0b7"
+  },
+  {
+    "name"     : "Duck",
+    "category" : "small bird",
+    "gender"   : "male",
+    "eats"     : [
+      "seed",
+      "plant",
+      "small insect"
+    ],
+    "rarity"   : 6,
+    "id"       : "e0d0d7e5-683d-4d96-9f05-04599745a97d"
+  },
+  {
+    "name"     : "Duck",
+    "category" : "small bird",
+    "gender"   : "female",
+    "eats"     : [
+      "seed",
+      "plant",
+      "small insect"
+    ],
+    "rarity"   : 7,
+    "id"       : "3012346b-edc3-4043-b8ec-b30bb007580d"
+  },
+  {
+    "name"     : "Eagle",
+    "category" : "large bird",
+    "gender"   : "male",
+    "eats"     : [
+      "small mammal",
+      "small bird",
+      "reptile",
+      "fish"
+    ],
+    "rarity"   : 63,
+    "id"       : "652e1ecd-f77b-4085-8ccc-4461e5131a30"
+  },
+  {
+    "name"     : "Eagle",
+    "category" : "large bird",
+    "gender"   : "female",
+    "eats"     : [
+      "small mammal",
+      "small bird",
+      "reptile",
+      "fish"
+    ],
+    "rarity"   : 58,
+    "id"       : "fc718f59-4f78-429a-8ce5-05ae50a3559b"
+  },
+  {
+    "name"     : "Elephant",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "leaf",
+      "bark"
+    ],
+    "rarity"   : 96,
+    "id"       : "05e21f68-e8b9-4ebf-a9e4-8b7419014924"
+  },
+  {
+    "name"     : "Elephant",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "leaf",
+      "bark"
+    ],
+    "rarity"   : 94,
+    "id"       : "049fadf4-66db-44f6-88f4-0be25bbe0e33"
+  },
+  {
+    "name"     : "Emu",
+    "category" : "large bird",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "seed",
+      "small insect"
+    ],
+    "rarity"   : 61,
+    "id"       : "2a7d037f-431f-40fc-b41c-9b7f0725a6d7"
+  },
+  {
+    "name"     : "Emu",
+    "category" : "large bird",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "seed",
+      "small insect"
+    ],
+    "rarity"   : 60,
+    "id"       : "3736f0c9-5664-43f2-8eed-a43b0053b2f7"
+  },
+  {
+    "name"     : "Falcon",
+    "category" : "large bird",
+    "gender"   : "male",
+    "eats"     : [
+      "small bird",
+      "small mammal"
+    ],
+    "rarity"   : 58,
+    "id"       : "a3d48e4f-780c-47dd-bb71-7811eb04f78e"
+  },
+  {
+    "name"     : "Falcon",
+    "category" : "large bird",
+    "gender"   : "female",
+    "eats"     : [
+      "small bird",
+      "small mammal"
+    ],
+    "rarity"   : 53,
+    "id"       : "3821301a-69fd-447d-85d0-e5c16abf94e8"
+  },
+  {
+    "name"     : "Ferret",
+    "category" : "small mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "tiny mammal",
+      "small mammal",
+      "small bird",
+      "egg"
+    ],
+    "rarity"   : 26,
+    "id"       : "3445135f-5a29-46a9-ad59-9fd4ca3fea35"
+  },
+  {
+    "name"     : "Ferret",
+    "category" : "small mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "tiny mammal",
+      "small mammal",
+      "small bird",
+      "egg"
+    ],
+    "rarity"   : 25,
+    "id"       : "f7be3600-769c-4480-acfd-166c508063b9"
+  },
+  {
+    "name"     : "Flamingo",
+    "category" : "medium bird",
+    "gender"   : "male",
+    "eats"     : [
+      "invertebrate",
+      "small insect"
+    ],
+    "rarity"   : 66,
+    "id"       : "4876ca16-c818-4db5-aafb-5a61dbe442b2"
+  },
+  {
+    "name"     : "Flamingo",
+    "category" : "medium bird",
+    "gender"   : "female",
+    "eats"     : [
+      "invertebrate",
+      "small insect"
+    ],
+    "rarity"   : 65,
+    "id"       : "a1e26d7c-a4e1-4b69-861f-3e16dbb8e254"
+  },
+  {
+    "name"     : "Fly",
+    "category" : "tiny insect",
+    "gender"   : "male",
+    "eats"     : [
+      "plant"
+    ],
+    "rarity"   : 4,
+    "id"       : "1b5a5ccf-e4bb-40e1-a4a3-cac0b53ff08b"
+  },
+  {
+    "name"     : "Fly",
+    "category" : "tiny insect",
+    "gender"   : "female",
+    "eats"     : [
+      "plant"
+    ],
+    "rarity"   : 3,
+    "id"       : "d6a6e0e9-38ad-46a7-bb45-2996ea73f7d8"
+  },
+  {
+    "name"     : "Fox",
+    "category" : "medium mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small mammal",
+      "small bird",
+      "reptile",
+      "small insect",
+      "egg"
+    ],
+    "rarity"   : 31,
+    "id"       : "f2077af7-a7a1-4491-a153-87b06c27cf5c"
+  },
+  {
+    "name"     : "Fox",
+    "category" : "medium mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small mammal",
+      "small bird",
+      "reptile",
+      "small insect",
+      "egg"
+    ],
+    "rarity"   : 30,
+    "id"       : "0126d3ca-da1e-407a-9eb4-cde14e9acc8b"
+  },
+  {
+    "name"     : "Frog",
+    "category" : "small amphibian",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "tiny insect"
+    ],
+    "rarity"   : 11,
+    "id"       : "18d0d932-caff-49c4-b886-ac9d7a567b68"
+  },
+  {
+    "name"     : "Frog",
+    "category" : "small amphibian",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "tiny insect"
+    ],
+    "rarity"   : 10,
+    "id"       : "4a61c8b8-a981-44cd-ba28-e677adf0c349"
+  },
+  {
+    "name"     : "Gazelle",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 71,
+    "id"       : "ce8aa813-b198-4548-8205-c22c1d2e3913"
+  },
+  {
+    "name"     : "Gazelle",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 70,
+    "id"       : "d2654fb6-2dca-42be-aa31-68ab2b0582ae"
+  },
+  {
+    "name"     : "Gecko",
+    "category" : "small reptile",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "tiny insect"
+    ],
+    "rarity"   : 21,
+    "id"       : "a9503cf9-bd90-4c7f-aa01-ccb4a545ada0"
+  },
+  {
+    "name"     : "Gecko",
+    "category" : "small reptile",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "tiny insect"
+    ],
+    "rarity"   : 20,
+    "id"       : "f81728fb-c8e0-4bf7-b0c8-e6f64b3065c6"
+  },
+  {
+    "name"     : "Giraffe",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "leaf"
+    ],
+    "rarity"   : 91,
+    "id"       : "9dcd2f6f-3edf-49c1-942e-8bc15c665696"
+  },
+  {
+    "name"     : "Giraffe",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "leaf"
+    ],
+    "rarity"   : 89,
+    "id"       : "99dbb1fb-fcd7-40b7-bef5-4b14958455fc"
+  },
+  {
+    "name"     : "Goat",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "leaf",
+      "grass"
+    ],
+    "rarity"   : 6,
+    "id"       : "22645a6c-079a-4446-a85b-85fc0c60764f"
+  },
+  {
+    "name"     : "Goat",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "leaf",
+      "grass"
+    ],
+    "rarity"   : 7,
+    "id"       : "2296a082-3867-465f-9e1e-9eb7f24fe314"
+  },
+  {
+    "name"     : "Goose",
+    "category" : "small bird",
+    "gender"   : "male",
+    "eats"     : [
+      "seed",
+      "plant",
+      "small insect"
+    ],
+    "rarity"   : 7,
+    "id"       : "ba96b6a0-0f74-404e-979f-f744544cf6ac"
+  },
+  {
+    "name"     : "Goose",
+    "category" : "small bird",
+    "gender"   : "female",
+    "eats"     : [
+      "seed",
+      "plant",
+      "small insect"
+    ],
+    "rarity"   : 8,
+    "id"       : "ec2560af-e615-4990-90f1-a5094e0ff3f5"
+  },
+  {
+    "name"     : "Gorilla",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "fruit"
+    ],
+    "rarity"   : 95,
+    "id"       : "230a2638-3853-4c92-815c-1411fe9477ec"
+  },
+  {
+    "name"     : "Gorilla",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "fruit"
+    ],
+    "rarity"   : 93,
+    "id"       : "b2a68f8b-b56e-41ee-ab2c-41a780f9a220"
+  },
+  {
+    "name"     : "Grasshopper",
+    "category" : "small insect",
+    "gender"   : "male",
+    "eats"     : [
+      "plant"
+    ],
+    "rarity"   : 7,
+    "id"       : "5136fc20-5cd7-4de6-8675-2375aa28e2ad"
+  },
+  {
+    "name"     : "Grasshopper",
+    "category" : "small insect",
+    "gender"   : "female",
+    "eats"     : [
+      "plant"
+    ],
+    "rarity"   : 6,
+    "id"       : "c56c8b60-0c01-4c9c-a0cc-9ff54557e38b"
+  },
+  {
+    "name"     : "Guinea pig",
+    "category" : "small mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "seed"
+    ],
+    "rarity"   : 9,
+    "id"       : "3feaf17d-3639-433d-a625-6da7c3aa889c"
+  },
+  {
+    "name"     : "Guinea pig",
+    "category" : "small mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "seed"
+    ],
+    "rarity"   : 8,
+    "id"       : "46dace41-50f8-4b38-a356-9ecaafdcf632"
+  },
+  {
+    "name"     : "Hamster",
+    "category" : "tiny mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "seed",
+      "plant"
+    ],
+    "rarity"   : 9,
+    "id"       : "8328108d-0087-4097-9d43-b62ae179132c"
+  },
+  {
+    "name"     : "Hamster",
+    "category" : "tiny mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "seed",
+      "plant"
+    ],
+    "rarity"   : 8,
+    "id"       : "99e44514-a95b-49dc-90ec-f03299bb9f1e"
+  },
+  {
+    "name"     : "Hare",
+    "category" : "small mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "grass"
+    ],
+    "rarity"   : 21,
+    "id"       : "d95d7195-ade9-462d-8e1d-20dd97bd5786"
+  },
+  {
+    "name"     : "Hare",
+    "category" : "small mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "grass"
+    ],
+    "rarity"   : 20,
+    "id"       : "dbdd9d93-52c3-43d6-9876-5980c1b2a5c2"
+  },
+  {
+    "name"     : "Hawk",
+    "category" : "large bird",
+    "gender"   : "male",
+    "eats"     : [
+      "small mammal",
+      "small bird",
+      "reptile",
+      "amphibian"
+    ],
+    "rarity"   : 48,
+    "id"       : "c5964525-c1e9-4e9e-8b10-4c6d40c48843"
+  },
+  {
+    "name"     : "Hawk",
+    "category" : "large bird",
+    "gender"   : "female",
+    "eats"     : [
+      "small mammal",
+      "small bird",
+      "reptile",
+      "amphibian"
+    ],
+    "rarity"   : 43,
+    "id"       : "ec0b804d-d50e-4bf9-96f5-e00653185cbe"
+  },
+  {
+    "name"     : "Hedgehog",
+    "category" : "small mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "invertebrate"
+    ],
+    "rarity"   : 26,
+    "id"       : "b63966c5-d5b2-4b3e-adec-d8d68cdd2885"
+  },
+  {
+    "name"     : "Hedgehog",
+    "category" : "small mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "invertebrate"
+    ],
+    "rarity"   : 25,
+    "id"       : "239baeb7-f804-40b0-b520-2fce5dc089a0"
+  },
+  {
+    "name"     : "Hippopotamus",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "grass"
+    ],
+    "rarity"   : 86,
+    "id"       : "40d8c687-b8b5-42b9-bfca-0138656e6d0a"
+  },
+  {
+    "name"     : "Hippopotamus",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "grass"
+    ],
+    "rarity"   : 85,
+    "id"       : "21aaa071-36ad-4ab1-a912-ab0d6901cc18"
+  },
+  {
+    "name"     : "Hornet",
+    "category" : "small insect",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "nectar"
+    ],
+    "rarity"   : 5,
+    "id"       : "80c818a4-e748-43b3-a04f-06cddb15795d"
+  },
+  {
+    "name"     : "Hornet",
+    "category" : "small insect",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "nectar"
+    ],
+    "rarity"   : 40,
+    "id"       : "2ec42232-7d3c-46ca-8d98-7e03280e3769"
+  },
+  {
+    "name"     : "Horse",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 5,
+    "id"       : "284e6942-7344-4cb4-b7ba-7b7c1e60e478"
+  },
+  {
+    "name"     : "Horse",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 6,
+    "id"       : "11dee5b6-9258-48f4-93da-e4d2c29c2be4"
+  },
+  {
+    "name"     : "Hummingbird",
+    "category" : "tiny bird",
+    "gender"   : "male",
+    "eats"     : [
+      "nectar",
+      "tiny insect"
+    ],
+    "rarity"   : 21,
+    "id"       : "380d246c-71b8-43db-8ec1-650238263c58"
+  },
+  {
+    "name"     : "Hummingbird",
+    "category" : "tiny bird",
+    "gender"   : "female",
+    "eats"     : [
+      "nectar",
+      "tiny insect"
+    ],
+    "rarity"   : 20,
+    "id"       : "a206b315-fff0-40f7-9a04-30446e88429b"
+  },
+  {
+    "name"     : "Hyena",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "medium mammal",
+      "small mammal",
+      "carrion"
+    ],
+    "rarity"   : 83,
+    "id"       : "b33f00d8-6895-470b-b390-6e30c3367486"
+  },
+  {
+    "name"     : "Hyena",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "medium mammal",
+      "small mammal",
+      "carrion"
+    ],
+    "rarity"   : 78,
+    "id"       : "06d059ed-f4e9-4d04-9074-475703e3c5e2"
+  },
+  {
+    "name"     : "Iguana",
+    "category" : "medium reptile",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "leaf"
+    ],
+    "rarity"   : 41,
+    "id"       : "11ec0bc8-09b6-4233-8b9e-4253d9f92322"
+  },
+  {
+    "name"     : "Iguana",
+    "category" : "medium reptile",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "leaf"
+    ],
+    "rarity"   : 40,
+    "id"       : "4024b8e2-92b8-44d1-acc7-f1487991fd5c"
+  },
+  {
+    "name"     : "Jackal",
+    "category" : "medium mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small mammal",
+      "small bird",
+      "carrion",
+      "egg"
+    ],
+    "rarity"   : 71,
+    "id"       : "0f0398f4-ba8b-4675-9fd3-bbde33ef16ed"
+  },
+  {
+    "name"     : "Jackal",
+    "category" : "medium mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small mammal",
+      "small bird",
+      "carrion",
+      "egg"
+    ],
+    "rarity"   : 70,
+    "id"       : "bb4c5d93-9d26-4a7d-a93f-9f7120138dff"
+  },
+  {
+    "name"     : "Jaguar",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "medium mammal",
+      "small mammal",
+      "reptile",
+      "fish"
+    ],
+    "rarity"   : 95,
+    "id"       : "9a48605c-0dac-4ce9-8999-3e128c9fef1d"
+  },
+  {
+    "name"     : "Jaguar",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "medium mammal",
+      "small mammal",
+      "reptile",
+      "fish"
+    ],
+    "rarity"   : 90,
+    "id"       : "7c2e16d2-7c4b-4214-a078-26ddf7c7baee"
+  },
+  {
+    "name"     : "Kangaroo",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "grass"
+    ],
+    "rarity"   : 81,
+    "id"       : "6b557cee-4cde-4fa1-88ad-62006ab57338"
+  },
+  {
+    "name"     : "Kangaroo",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "grass"
+    ],
+    "rarity"   : 80,
+    "id"       : "cbcf18ae-a3fc-477b-8406-cf0ca2280328"
+  },
+  {
+    "name"     : "Koala",
+    "category" : "medium mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "leaf"
+    ],
+    "rarity"   : 91,
+    "id"       : "f43aaa5b-00c2-4f33-bcf7-347a3c85060c"
+  },
+  {
+    "name"     : "Koala",
+    "category" : "medium mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "leaf"
+    ],
+    "rarity"   : 89,
+    "id"       : "6355fa64-5b92-4c50-83c5-8e2e69461ac0"
+  },
+  {
+    "name"     : "Lamb",
+    "category" : "small mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 4,
+    "id"       : "8b123bd2-39c3-43e7-9d83-80bf3804d302"
+  },
+  {
+    "name"     : "Lamb",
+    "category" : "small mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 5,
+    "id"       : "61ded22f-b554-4021-9052-b8dcbbf2c435"
+  },
+  {
+    "name"     : "Leopard",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small mammal",
+      "medium mammal",
+      "small bird"
+    ],
+    "rarity"   : 93,
+    "id"       : "6769cd5d-71d2-4d3d-8b16-675e629229ac"
+  },
+  {
+    "name"     : "Leopard",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small mammal",
+      "medium mammal",
+      "small bird"
+    ],
+    "rarity"   : 88,
+    "id"       : "070185ab-9d98-4f23-87e6-0c0f7ff84633"
+  },
+  {
+    "name"     : "Lion",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small mammal",
+      "medium mammal"
+    ],
+    "rarity"   : 95,
+    "id"       : "28cf7fe2-a8e0-4592-8d82-43a95acad4fb"
+  },
+  {
+    "name"     : "Lion",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small mammal",
+      "medium mammal"
+    ],
+    "rarity"   : 88,
+    "id"       : "7e649dcc-daea-4e68-a387-4d013a246316"
+  },
+  {
+    "name"     : "Lizard",
+    "category" : "small reptile",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "tiny insect"
+    ],
+    "rarity"   : 16,
+    "id"       : "49343697-5fa2-401a-a175-a9af5a939e8a"
+  },
+  {
+    "name"     : "Lizard",
+    "category" : "small reptile",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "tiny insect"
+    ],
+    "rarity"   : 15,
+    "id"       : "bf12e4f5-790f-4f95-927d-eae7a2f83849"
+  },
+  {
+    "name"     : "Llama",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "grass"
+    ],
+    "rarity"   : 26,
+    "id"       : "1eb350c2-387c-4696-86a4-dc258ba94b5c"
+  },
+  {
+    "name"     : "Llama",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "grass"
+    ],
+    "rarity"   : 25,
+    "id"       : "915beedb-231f-420e-b430-26fee4ab7824"
+  },
+  {
+    "name"     : "Mole",
+    "category" : "small mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "invertebrate"
+    ],
+    "rarity"   : 21,
+    "id"       : "89e21790-34bb-4f6e-b1d2-efa235b680cb"
+  },
+  {
+    "name"     : "Mole",
+    "category" : "small mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "invertebrate"
+    ],
+    "rarity"   : 20,
+    "id"       : "78a7953c-84e1-4fff-82ab-c52865c7fae8"
+  },
+  {
+    "name"     : "Monkey",
+    "category" : "medium mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "fruit",
+      "small insect",
+      "egg"
+    ],
+    "rarity"   : 61,
+    "id"       : "3997ebb4-b416-4c59-9156-03de766e127f"
+  },
+  {
+    "name"     : "Monkey",
+    "category" : "medium mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "fruit",
+      "small insect",
+      "egg"
+    ],
+    "rarity"   : 60,
+    "id"       : "d85e8b67-da5c-4dd0-888e-32d96858da78"
+  },
+  {
+    "name"     : "Moose",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "leaf"
+    ],
+    "rarity"   : 55,
+    "id"       : "a6c4dfbe-0068-4343-bc75-29bc6ded22c4"
+  },
+  {
+    "name"     : "Moose",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "leaf"
+    ],
+    "rarity"   : 48,
+    "id"       : "d8ba0cc6-be6c-4b0a-b3fb-34ff31801a09"
+  },
+  {
+    "name"     : "Mouse",
+    "category" : "tiny mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "seed",
+      "plant"
+    ],
+    "rarity"   : 9,
+    "id"       : "f6c1af63-7b0d-4753-b256-d31232af04c2"
+  },
+  {
+    "name"     : "Mouse",
+    "category" : "tiny mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "seed",
+      "plant"
+    ],
+    "rarity"   : 8,
+    "id"       : "65cea55d-b70e-4c4c-8956-6edc8a014a70"
+  },
+  {
+    "name"     : "Mule",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 10,
+    "id"       : "920728cf-0e72-4230-9bc5-c56a202649b8"
+  },
+  {
+    "name"     : "Mule",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 11,
+    "id"       : "af550512-6a86-476c-ba2f-776fc230cc95"
+  },
+  {
+    "name"     : "Newt",
+    "category" : "small amphibian",
+    "gender"   : "male",
+    "eats"     : [
+      "tiny insect",
+      "small insect"
+    ],
+    "rarity"   : 16,
+    "id"       : "f7beafff-2b23-4e96-8c73-82c648925006"
+  },
+  {
+    "name"     : "Newt",
+    "category" : "small amphibian",
+    "gender"   : "female",
+    "eats"     : [
+      "tiny insect",
+      "small insect"
+    ],
+    "rarity"   : 15,
+    "id"       : "d27e978d-f19e-4814-8e73-1d3b2219da3c"
+  },
+  {
+    "name"     : "Ocelot",
+    "category" : "medium mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small mammal",
+      "small bird",
+      "reptile"
+    ],
+    "rarity"   : 86,
+    "id"       : "e05b923e-4cbf-44e1-9e5b-780f9b2dafed"
+  },
+  {
+    "name"     : "Ocelot",
+    "category" : "medium mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small mammal",
+      "small bird",
+      "reptile"
+    ],
+    "rarity"   : 85,
+    "id"       : "c88ec9d4-1849-4b11-9f78-80aa2df134bf"
+  },
+  {
+    "name"     : "Opossum",
+    "category" : "medium mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "fruit",
+      "carrion",
+      "egg"
+    ],
+    "rarity"   : 21,
+    "id"       : "daf26152-2a6c-4d27-97ea-fefd0632de03"
+  },
+  {
+    "name"     : "Opossum",
+    "category" : "medium mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "fruit",
+      "carrion",
+      "egg"
+    ],
+    "rarity"   : 20,
+    "id"       : "99518ac7-5650-4d34-8db9-d3d68f90e5e6"
+  },
+  {
+    "name"     : "Orangutan",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "fruit",
+      "plant"
+    ],
+    "rarity"   : 97,
+    "id"       : "1fe1360a-5265-4e26-98e2-c42b41f36629"
+  },
+  {
+    "name"     : "Orangutan",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "fruit",
+      "plant"
+    ],
+    "rarity"   : 95,
+    "id"       : "2a39b4a2-619e-4829-96a4-b9d918268bea"
+  },
+  {
+    "name"     : "Ostrich",
+    "category" : "large bird",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "seed",
+      "small insect"
+    ],
+    "rarity"   : 71,
+    "id"       : "6be0bc09-4215-4c92-8d09-33be7450e672"
+  },
+  {
+    "name"     : "Ostrich",
+    "category" : "large bird",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "seed",
+      "small insect"
+    ],
+    "rarity"   : 70,
+    "id"       : "56a15934-e88f-438d-8d3f-8194ebcd5d8c"
+  },
+  {
+    "name"     : "Otter",
+    "category" : "medium mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "fish",
+      "amphibian"
+    ],
+    "rarity"   : 41,
+    "id"       : "71384170-b048-4bb3-a948-bc41e6d45046"
+  },
+  {
+    "name"     : "Otter",
+    "category" : "medium mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "fish",
+      "amphibian"
+    ],
+    "rarity"   : 40,
+    "id"       : "064622fc-53dd-46c0-909f-34c5ce6c68be"
+  },
+  {
+    "name"     : "Owl",
+    "category" : "large bird",
+    "gender"   : "male",
+    "eats"     : [
+      "small mammal",
+      "tiny mammal",
+      "small bird",
+      "reptile",
+      "amphibian"
+    ],
+    "rarity"   : 38,
+    "id"       : "655d8b47-32fe-41a2-a1e6-cc465e321338"
+  },
+  {
+    "name"     : "Owl",
+    "category" : "large bird",
+    "gender"   : "female",
+    "eats"     : [
+      "small mammal",
+      "tiny mammal",
+      "small bird",
+      "reptile",
+      "amphibian"
+    ],
+    "rarity"   : 33,
+    "id"       : "9986a77a-d272-447f-a154-f761c6c3f91e"
+  },
+  {
+    "name"     : "Ox",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 8,
+    "id"       : "04559992-96c6-46ad-bac8-54147c9b889f"
+  },
+  {
+    "name"     : "Ox",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 9,
+    "id"       : "48e8ed2c-d720-4aac-9255-bc77a55d2fc4"
+  },
+  {
+    "name"     : "Panda",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant"
+    ],
+    "rarity"   : 100,
+    "id"       : "d97afe83-a3ba-4ab8-a76c-2220c0019630"
+  },
+  {
+    "name"     : "Panda",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant"
+    ],
+    "rarity"   : 98,
+    "id"       : "c367ba0d-c29e-4af7-965a-67879e4815e7"
+  },
+  {
+    "name"     : "Parrot",
+    "category" : "small bird",
+    "gender"   : "male",
+    "eats"     : [
+      "seed",
+      "fruit"
+    ],
+    "rarity"   : 31,
+    "id"       : "394df325-4754-47fb-b369-e40cca0e431c"
+  },
+  {
+    "name"     : "Parrot",
+    "category" : "small bird",
+    "gender"   : "female",
+    "eats"     : [
+      "seed",
+      "fruit"
+    ],
+    "rarity"   : 30,
+    "id"       : "a30ab65a-c8db-472c-803a-438cace30d6d"
+  },
+  {
+    "name"     : "Peacock",
+    "category" : "small bird",
+    "gender"   : "male",
+    "eats"     : [
+      "seed",
+      "small insect"
+    ],
+    "rarity"   : 45,
+    "id"       : "2f67754c-b3cf-49b4-b29e-46dd8217aff7"
+  },
+  {
+    "name"     : "Peacock",
+    "category" : "small bird",
+    "gender"   : "female",
+    "eats"     : [
+      "seed",
+      "small insect"
+    ],
+    "rarity"   : 38,
+    "id"       : "d77ee62a-9c65-47a2-a9c8-df0dd42b80d3"
+  },
+  {
+    "name"     : "Pelican",
+    "category" : "large bird",
+    "gender"   : "male",
+    "eats"     : [
+      "fish"
+    ],
+    "rarity"   : 36,
+    "id"       : "bf0ea2ac-efa8-4348-9e66-9121b79a3f1f"
+  },
+  {
+    "name"     : "Pelican",
+    "category" : "large bird",
+    "gender"   : "female",
+    "eats"     : [
+      "fish"
+    ],
+    "rarity"   : 35,
+    "id"       : "fffbbe5b-660c-43b1-955a-4a3d1f8fbb38"
+  },
+  {
+    "name"     : "Penguin",
+    "category" : "medium bird",
+    "gender"   : "male",
+    "eats"     : [
+      "fish"
+    ],
+    "rarity"   : 86,
+    "id"       : "2a892cb2-1690-4571-9cde-9812e8613436"
+  },
+  {
+    "name"     : "Penguin",
+    "category" : "medium bird",
+    "gender"   : "female",
+    "eats"     : [
+      "fish"
+    ],
+    "rarity"   : 85,
+    "id"       : "630a531f-6621-407f-b15a-f890cb554316"
+  },
+  {
+    "name"     : "Pig",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "root",
+      "small insect"
+    ],
+    "rarity"   : 5,
+    "id"       : "19555f63-8a11-4cf2-9847-5c0fed318365"
+  },
+  {
+    "name"     : "Pig",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "root",
+      "small insect"
+    ],
+    "rarity"   : 6,
+    "id"       : "15b9382b-d0a1-4928-a000-a871c621b206"
+  },
+  {
+    "name"     : "Pigeon",
+    "category" : "small bird",
+    "gender"   : "male",
+    "eats"     : [
+      "seed"
+    ],
+    "rarity"   : 5,
+    "id"       : "05083e6c-b4a6-4fad-bdc3-c0d8e3b1df67"
+  },
+  {
+    "name"     : "Pigeon",
+    "category" : "small bird",
+    "gender"   : "female",
+    "eats"     : [
+      "seed"
+    ],
+    "rarity"   : 6,
+    "id"       : "a8b0098b-619d-4cf0-aa1f-e961337ffdab"
+  },
+  {
+    "name"     : "Porcupine",
+    "category" : "small mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "bark",
+      "leaf",
+      "plant"
+    ],
+    "rarity"   : 36,
+    "id"       : "a9686de0-065b-4579-8f8c-882de6e6c29b"
+  },
+  {
+    "name"     : "Porcupine",
+    "category" : "small mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "bark",
+      "leaf",
+      "plant"
+    ],
+    "rarity"   : 35,
+    "id"       : "f770fe1d-66bc-4f35-9cb7-c816a8f53d85"
+  },
+  {
+    "name"     : "Possum",
+    "category" : "medium mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "fruit",
+      "carrion",
+      "egg"
+    ],
+    "rarity"   : 21,
+    "id"       : "bb3e3629-7120-40f4-97e4-f8ebbff5c167"
+  },
+  {
+    "name"     : "Possum",
+    "category" : "medium mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "fruit",
+      "carrion",
+      "egg"
+    ],
+    "rarity"   : 20,
+    "id"       : "05a77fb4-d1b1-4800-8c75-9c653706c28e"
+  },
+  {
+    "name"     : "Rabbit",
+    "category" : "small mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "grass"
+    ],
+    "rarity"   : 11,
+    "id"       : "bdf0f543-c6ee-4caa-bbc9-d04ba17ab095"
+  },
+  {
+    "name"     : "Rabbit",
+    "category" : "small mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "grass"
+    ],
+    "rarity"   : 10,
+    "id"       : "71d62e58-b869-4c55-a98d-837509e9d93b"
+  },
+  {
+    "name"     : "Raccoon",
+    "category" : "medium mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "small mammal",
+      "fruit",
+      "seed",
+      "egg"
+    ],
+    "rarity"   : 16,
+    "id"       : "23a23e4f-5a04-46da-a92e-8fe46adbc3ab"
+  },
+  {
+    "name"     : "Raccoon",
+    "category" : "medium mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "small mammal",
+      "fruit",
+      "seed",
+      "egg"
+    ],
+    "rarity"   : 15,
+    "id"       : "2ab3f113-b841-49a9-aa0e-13e350a9aa93"
+  },
+  {
+    "name"     : "Rat",
+    "category" : "tiny mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "seed",
+      "plant"
+    ],
+    "rarity"   : 9,
+    "id"       : "8c369bf7-cc41-4f60-9f99-785bd129425b"
+  },
+  {
+    "name"     : "Rat",
+    "category" : "tiny mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "seed",
+      "plant"
+    ],
+    "rarity"   : 8,
+    "id"       : "431efab5-9e35-41ee-93c6-16d070a1f27d"
+  },
+  {
+    "name"     : "Raven",
+    "category" : "medium bird",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "small mammal",
+      "carrion",
+      "seed",
+      "egg"
+    ],
+    "rarity"   : 21,
+    "id"       : "da800a7a-8e64-490f-b80c-ced70f0055f3"
+  },
+  {
+    "name"     : "Raven",
+    "category" : "medium bird",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "small mammal",
+      "carrion",
+      "seed",
+      "egg"
+    ],
+    "rarity"   : 20,
+    "id"       : "4aa102be-c84a-4913-a343-3eb4ff5ed5d3"
+  },
+  {
+    "name"     : "Reindeer",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "leaf"
+    ],
+    "rarity"   : 75,
+    "id"       : "c14ad9d9-d8c9-4319-b537-b96c8fa803a8"
+  },
+  {
+    "name"     : "Reindeer",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "leaf"
+    ],
+    "rarity"   : 68,
+    "id"       : "76564ae5-fe79-44ba-a4a8-71afb1f4e9f8"
+  },
+  {
+    "name"     : "Rhinoceros",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "leaf",
+      "grass"
+    ],
+    "rarity"   : 99,
+    "id"       : "0fa29ca2-0abb-4705-b6a0-2b8c16e99882"
+  },
+  {
+    "name"     : "Rhinoceros",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "leaf",
+      "grass"
+    ],
+    "rarity"   : 97,
+    "id"       : "9abcdab0-14a6-4695-a25c-dbc0a61fa981"
+  },
+  {
+    "name"     : "Scorpion",
+    "category" : "invertebrate",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "tiny insect"
+    ],
+    "rarity"   : 26,
+    "id"       : "4cbdf678-e55b-4957-bb4f-926a0376e128"
+  },
+  {
+    "name"     : "Scorpion",
+    "category" : "invertebrate",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "tiny insect"
+    ],
+    "rarity"   : 25,
+    "id"       : "3198e704-316f-4894-8938-589e8a4c0161"
+  },
+  {
+    "name"     : "Sheep",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 5,
+    "id"       : "077c0b67-4d37-405d-9428-6218f10bbd0b"
+  },
+  {
+    "name"     : "Sheep",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 6,
+    "id"       : "f932ac79-aaa6-4c23-8822-03c4408a2b8a"
+  },
+  {
+    "name"     : "Skunk",
+    "category" : "medium mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "small mammal",
+      "fruit",
+      "seed",
+      "egg"
+    ],
+    "rarity"   : 21,
+    "id"       : "9425577c-3324-4432-87f0-bdbb6d290884"
+  },
+  {
+    "name"     : "Skunk",
+    "category" : "medium mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "small mammal",
+      "fruit",
+      "seed",
+      "egg"
+    ],
+    "rarity"   : 20,
+    "id"       : "b4b6da37-221e-42ca-90f3-d6bf44df8491"
+  },
+  {
+    "name"     : "Sloth",
+    "category" : "medium mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "leaf"
+    ],
+    "rarity"   : 71,
+    "id"       : "33f9b5a3-a686-4cfb-bc13-697dfed2d11d"
+  },
+  {
+    "name"     : "Sloth",
+    "category" : "medium mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "leaf"
+    ],
+    "rarity"   : 70,
+    "id"       : "c6b26458-d21d-4df3-aca3-901e87a0ba4c"
+  },
+  {
+    "name"     : "Snail",
+    "category" : "invertebrate",
+    "gender"   : "male",
+    "eats"     : [
+      "plant"
+    ],
+    "rarity"   : 11,
+    "id"       : "3981e9e4-7c60-4b9c-b097-9c561bc8e8f1"
+  },
+  {
+    "name"     : "Snail",
+    "category" : "invertebrate",
+    "gender"   : "female",
+    "eats"     : [
+      "plant"
+    ],
+    "rarity"   : 10,
+    "id"       : "4f47651b-5ed1-47f1-bede-dd29edc64490"
+  },
+  {
+    "name"     : "Snake",
+    "category" : "medium reptile",
+    "gender"   : "male",
+    "eats"     : [
+      "tiny mammal",
+      "small mammal",
+      "small bird",
+      "amphibian",
+      "reptile"
+    ],
+    "rarity"   : 21,
+    "id"       : "f15df4be-7eb1-42ae-8d0d-b6c1fdb4fcd8"
+  },
+  {
+    "name"     : "Snake",
+    "category" : "medium reptile",
+    "gender"   : "female",
+    "eats"     : [
+      "tiny mammal",
+      "small mammal",
+      "small bird",
+      "amphibian",
+      "reptile"
+    ],
+    "rarity"   : 20,
+    "id"       : "94fe5b1a-fb7c-4237-acbc-6a606e26f568"
+  },
+  {
+    "name"     : "Spider",
+    "category" : "invertebrate",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "tiny insect"
+    ],
+    "rarity"   : 11,
+    "id"       : "99038d7f-1612-44cd-91d8-382683e5bd57"
+  },
+  {
+    "name"     : "Spider",
+    "category" : "invertebrate",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "tiny insect"
+    ],
+    "rarity"   : 10,
+    "id"       : "0285e10c-cec1-4441-a697-8914a4ae9fff"
+  },
+  {
+    "name"     : "Squirrel",
+    "category" : "small mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "seed",
+      "fruit"
+    ],
+    "rarity"   : 11,
+    "id"       : "e45e7a3b-b01f-4ef2-babe-eccc46c3205d"
+  },
+  {
+    "name"     : "Squirrel",
+    "category" : "small mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "seed",
+      "fruit"
+    ],
+    "rarity"   : 10,
+    "id"       : "4fa73fa8-ee0c-4b8b-ac3f-c8dedc7a9e00"
+  },
+  {
+    "name"     : "Swan",
+    "category" : "medium bird",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "seed",
+      "small insect"
+    ],
+    "rarity"   : 31,
+    "id"       : "00c35787-a9a9-4678-a668-5386ea352ce7"
+  },
+  {
+    "name"     : "Swan",
+    "category" : "medium bird",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "seed",
+      "small insect"
+    ],
+    "rarity"   : 30,
+    "id"       : "617319c8-3794-4a91-8f60-8a27a6b71757"
+  },
+  {
+    "name"     : "Tiger",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small mammal",
+      "medium mammal"
+    ],
+    "rarity"   : 98,
+    "id"       : "138cc098-6df4-4db4-9fd1-187e67d30024"
+  },
+  {
+    "name"     : "Tiger",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small mammal",
+      "medium mammal"
+    ],
+    "rarity"   : 93,
+    "id"       : "6eff7218-ef5b-4ff7-9764-ab35a365215e"
+  },
+  {
+    "name"     : "Toad",
+    "category" : "small amphibian",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "tiny insect"
+    ],
+    "rarity"   : 11,
+    "id"       : "fd5fcc12-e172-4075-a9d5-378eccfc24b8"
+  },
+  {
+    "name"     : "Toad",
+    "category" : "small amphibian",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "tiny insect"
+    ],
+    "rarity"   : 10,
+    "id"       : "e4ae0743-6fb8-4cf4-9188-f20f6377edf3"
+  },
+  {
+    "name"     : "Turkey",
+    "category" : "medium bird",
+    "gender"   : "male",
+    "eats"     : [
+      "seed",
+      "small insect"
+    ],
+    "rarity"   : 8,
+    "id"       : "e78a6188-9e10-4981-a397-2ed5fb89bd21"
+  },
+  {
+    "name"     : "Turkey",
+    "category" : "medium bird",
+    "gender"   : "female",
+    "eats"     : [
+      "seed",
+      "small insect"
+    ],
+    "rarity"   : 9,
+    "id"       : "0f76978f-2717-4902-af3c-d6628e9825fd"
+  },
+  {
+    "name"     : "Turtle",
+    "category" : "small reptile",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "small insect"
+    ],
+    "rarity"   : 21,
+    "id"       : "31f1a513-dab0-4da2-818e-c6c242b74553"
+  },
+  {
+    "name"     : "Turtle",
+    "category" : "small reptile",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "small insect"
+    ],
+    "rarity"   : 20,
+    "id"       : "2a0cbfb2-6c8b-4c2d-9a5e-e716cbebc37c"
+  },
+  {
+    "name"     : "Vulture",
+    "category" : "large bird",
+    "gender"   : "male",
+    "eats"     : [
+      "carrion"
+    ],
+    "rarity"   : 41,
+    "id"       : "14d94064-fb19-44bb-b65e-39f2cf8f58a7"
+  },
+  {
+    "name"     : "Vulture",
+    "category" : "large bird",
+    "gender"   : "female",
+    "eats"     : [
+      "carrion"
+    ],
+    "rarity"   : 40,
+    "id"       : "108bc697-4e8e-4d97-ab52-dfc663a608ff"
+  },
+  {
+    "name"     : "Wasp",
+    "category" : "small insect",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect",
+      "nectar"
+    ],
+    "rarity"   : 5,
+    "id"       : "de719fa9-b7ed-4067-8bd7-ffcba0b2989f"
+  },
+  {
+    "name"     : "Wasp",
+    "category" : "small insect",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect",
+      "nectar"
+    ],
+    "rarity"   : 40,
+    "id"       : "7fea4a6d-da1c-4711-a277-dbc55a56e356"
+  },
+  {
+    "name"     : "Weasel",
+    "category" : "small mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "tiny mammal",
+      "small mammal",
+      "small bird",
+      "egg"
+    ],
+    "rarity"   : 31,
+    "id"       : "88b40326-2bc1-45ba-a060-0ee748ab93f7"
+  },
+  {
+    "name"     : "Weasel",
+    "category" : "small mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "tiny mammal",
+      "small mammal",
+      "small bird",
+      "egg"
+    ],
+    "rarity"   : 30,
+    "id"       : "00e102c8-b650-4000-b408-3ba4a9c169bf"
+  },
+  {
+    "name"     : "Wolf",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "small mammal",
+      "medium mammal"
+    ],
+    "rarity"   : 83,
+    "id"       : "e33eb6ca-e355-4a78-8057-76d55a1d3114"
+  },
+  {
+    "name"     : "Wolf",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "small mammal",
+      "medium mammal"
+    ],
+    "rarity"   : 78,
+    "id"       : "90348e1e-e321-4c19-8131-2937a66c515c"
+  },
+  {
+    "name"     : "Wombat",
+    "category" : "medium mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "plant",
+      "root"
+    ],
+    "rarity"   : 86,
+    "id"       : "9d49e045-037d-473e-8afd-1f1b800c4f8e"
+  },
+  {
+    "name"     : "Wombat",
+    "category" : "medium mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "plant",
+      "root"
+    ],
+    "rarity"   : 85,
+    "id"       : "dea0eff7-da22-47fe-a403-679bd2ecf46d"
+  },
+  {
+    "name"     : "Woodpecker",
+    "category" : "small bird",
+    "gender"   : "male",
+    "eats"     : [
+      "small insect"
+    ],
+    "rarity"   : 21,
+    "id"       : "63960994-d264-497f-ab6b-10bc30e75620"
+  },
+  {
+    "name"     : "Woodpecker",
+    "category" : "small bird",
+    "gender"   : "female",
+    "eats"     : [
+      "small insect"
+    ],
+    "rarity"   : 20,
+    "id"       : "fd93d18b-a82d-4c42-8e8f-db47179a6393"
+  },
+  {
+    "name"     : "Zebra",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 81,
+    "id"       : "ca1898dc-511a-44b5-a272-bd39e8a1df32"
+  },
+  {
+    "name"     : "Zebra",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "grass",
+      "plant"
+    ],
+    "rarity"   : 80,
+    "id"       : "9cc98549-064a-4f48-83df-c9deacb24cad"
+  },
+  {
+    "name"     : "Unicorn",
+    "category" : "large mammal",
+    "gender"   : "female",
+    "eats"     : [
+      "grass",
+      "plant",
+      "fruit"
+    ],
+    "rarity"   : 100,
+    "id"       : "0921bd2d-ce41-422a-b9a4-d907f2303fe0"
+  },
+  {
+    "name"     : "Unicorn",
+    "category" : "large mammal",
+    "gender"   : "male",
+    "eats"     : [
+      "grass",
+      "plant",
+      "fruit"
+    ],
+    "rarity"   : 100,
+    "id"       : "1a941b2d-d052-47cb-bba7-d73130b23fdb"
+  },
+  {
+    "name"     : "Dragon",
+    "category" : "large reptile",
+    "gender"   : "female",
+    "eats"     : [
+      "gold",
+      "large mammal",
+      "small mammal"
+    ],
+    "rarity"   : 100,
+    "id"       : "afba5409-296e-4686-950a-fc3e25e3a345"
+  },
+  {
+    "name"     : "Dragon",
+    "category" : "large reptile",
+    "gender"   : "male",
+    "eats"     : [
+      "gold",
+      "large mammal",
+      "small mammal"
+    ],
+    "rarity"   : 100,
+    "id"       : "ad8913dc-9bd4-4337-bf37-0a0b9faa2f35"
+  }
+]
